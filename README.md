@@ -1,2 +1,12 @@
-# sascox
-My ReadMe file for my Github Profile (Open Source)
+### Hello! 👋
+
+Welcome to my Terrible GitHub Profile!
+
+What do I do? Here's what I do:
+
+- 🛠️ Currently Developing Simple/Advanced Discord Bots
+- 💡 Looking for Developer Collaborations 
+
+### My Github Stats
+
+![sascox555' Github Stats](https://github-readme-stats.vercel.app/api?username=sascox555&show_icons=true&theme=dark)
