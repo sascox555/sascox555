@@ -12,4 +12,4 @@ Have a Great day!
 
 ### GitHub Statictics
 
-![sascox555's Github Stats](https://github-readme-stats.vercel.app/api?username=sascox555&show_icons=true&theme=dark)
+![Video of Me Coding](https://youtu.be/dQw4w9WgXcQ)
