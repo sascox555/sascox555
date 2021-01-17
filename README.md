@@ -9,7 +9,3 @@ Hope you like my profile!
 - Make sure to check the Organizations I'm in/own!
 
 Have a Great day!
-
-### GitHub Statictics
-
-![Video of Me Coding](https://youtu.be/dQw4w9WgXcQ)
