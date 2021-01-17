@@ -1,14 +1,15 @@
-### Hello! 👋
+### Welcome to sascox555's Profile!
 
-Welcome to my Terrible GitHub Profile!
+Hello, I'm Sasco X and I'm a professional JavaScript Developer, I have the most experience with Discord.JS with use of Node.JS. I am currently learning Discord.PY and TypeScript
+Hope you like my profile!
 
-What do I do? Here's what I do:
+- Feel free to use any of my Open Source codes in any of my GitHub Reps :)
+- Contact me on Discord at SascoOMG#0001
+- Join my Discord Server [here](https://discord.gg/jQx3uQC)'
+- Make sure to check the Organizations I'm in/own!
 
-- 🛠️ Currently Developing Simple/Advanced Discord Bots
-- 💡 Looking for Developer Collaborations 
+Have a Great day!
 
-Wanna Contact me? DM Me on Discord at SascoOMG#0001
-
-### My Github Stats
+### GitHub Statictics
 
 ![sascox555's Github Stats](https://github-readme-stats.vercel.app/api?username=sascox555&show_icons=true&theme=dark)
