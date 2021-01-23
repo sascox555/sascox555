@@ -18,3 +18,18 @@ Have a Great day!
   <img align="left" alt="sascox55's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sascox555&show_icons=true&theme=dark" />
 
 </details>
+
+<details>
+  <summary>Social Medias</summary>
+  
+  [![Twitter](https://img.shields.io/twitter/follow/SascoX?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/sascox555&screen_name=SascoX)
+  
+  <a href="https://www.youtube.com/channel/UCxYVGiF7MrBdKBPE4yQvvdQ?sub_confirmation=1"><img alt="YouTube" title="Sasco X" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?label=Subscribers&style=for-the-badge&color=red&labelColor=ce4630"/></a> 
+  
+ # Extra:
+ 
+ [Reddit](https://www.reddit.com/user/sasco_x)
+ [Twitch](https://www.twitch.tv/sasco_x)
+ [Spotify](https://open.spotify.com/user/pfw5mlez5ekm0551woj0pw2d3)
+  
+</details>
