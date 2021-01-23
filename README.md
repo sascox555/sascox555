@@ -1,6 +1,6 @@
 ### Welcome to sascox555's Profile!
 
-Hello, I'm Sasco X and I'm a professional JavaScript Developer, I have the most experience with Discord.JS with use of Node.JS. I am currently learning Discord.PY and TypeScript
+Hello, I'm Sasco X and I'm a professional JavaScript Developer, I have the most experience with Discord.JS with use of Node.JS. I am currently learning Discord.py and TypeScript
 Hope you like my profile!
 
 - Feel free to use any of my Open Source codes in any of my GitHub Reps :)
@@ -9,3 +9,12 @@ Hope you like my profile!
 - Make sure to check the Organizations I'm in/own!
 
 Have a Great day!
+
+---
+
+<details>
+  <summary>GitHub Stats</summary>
+
+  <img align="left" alt="sascox55's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sascox555&show_icons=true&theme=dark" />
+
+</details>
